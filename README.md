@@ -1,6 +1,6 @@
 # LazyLoad
 
-Proyecto que contiene la explicación de como trabajar y entender los lazylaod.
+Proyecto que contiene la explicación paso a pas de como trabajar y entender los lazylaod, todo esto esta desarrollado en el framework ANGULAR con Bootstrap 4, La api que se esta consumiendo es: `https://jsonplaceholder.typicode.com/posts`
 
 ## Servidor de desarrollo
 
